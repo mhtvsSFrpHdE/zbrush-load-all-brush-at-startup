@@ -1,0 +1,14 @@
+﻿[IConfig,2018]
+[If,1=1,
+	[FileNameSetNext,"example1.ZBP"]
+	[IPress,Brush:Load Brush]
+
+	[FileNameSetNext,"example2.ZBP"]
+	[IPress,Brush:Load Brush]
+
+	[FileNameSetNext,"example3.ZBP"]
+	[IPress,Brush:Load Brush]
+
+	[FileNameSetNext,"example4.ZBP"]
+	[IPress,Brush:Load Brush]
+]
